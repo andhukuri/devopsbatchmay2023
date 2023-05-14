@@ -1,0 +1,2 @@
+this is the file created to understand the reset
+checking the status
